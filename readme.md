@@ -1,1 +1,1 @@
-hello
+sui new quest_2
